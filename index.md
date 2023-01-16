@@ -16,15 +16,15 @@
 
 # Records
 
-| Hero          | Hero ID   | Name                                  |   Value | Player ID   | Team ID   | Match      |
-|:--------------|:----------|:--------------------------------------|--------:|:------------|:----------|:-----------|
-| Arc Warden    | 113       | PSGUOTM.MILF-TASK FORCE AGAINST SHABU |    1114 | 124832883   | -         | 6918777516 |
-| Queen of Pain | 39        | NF.Punisher                           |    1110 | 1021071801  | -         | 6953580737 |
-| Invoker       | 74        | TP.Moozy                              |      30 | 399373499   | -         | 6918791306 |
-| Undying       | 85        | MM.Thug Wood                          |      23 | 156404497   | -         | 6965957395 |
-| Lina          | 25        | HPT.Not Nilc                          |    9291 | 143354312   | -         | 6930173170 |
-| Ember Spirit  | 106       | EEULH.pacem in terris                 |   33947 | 184631240   | -         | 6930129729 |
-| -             | -         | UIUC.勝つか死ぬか                     |       9 | 137168514   | -         | -          |
-| -             | -         | 哈哈哈                                |       1 | 875936157   | -         | -          |
-| -             | -         | Hotpot Thots                          |      32 | -           | 8951290.0 | -          |
-| -             | -         | Elmo drink :)                         |       5 | -           | 2924024.0 | -          |
+| Record                  | Hero          | Name                                  |   Value | Match      |
+|:------------------------|:--------------|:--------------------------------------|--------:|:-----------|
+| GPM                     | Arc Warden    | PSGUOTM.MILF-TASK FORCE AGAINST SHABU |    1114 | 6918777516 |
+| XPM                     | Queen of Pain | NF.Punisher                           |    1110 | 6953580737 |
+| Kills                   | Invoker       | TP.Moozy                              |      30 | 6918791306 |
+| Deaths                  | Undying       | MM.Thug Wood                          |      23 | 6965957395 |
+| Lowest Rampage          | Lina          | HPT.Not Nilc                          |    9291 | 6930173170 |
+| Highest Rampage         | Ember Spirit  | EEULH.pacem in terris                 |   33947 | 6930129729 |
+| Widest Hero Pool        | -             | UIUC.勝つか死ぬか                     |       9 | -          |
+| Smallest Hero Pool      | -             | 哈哈哈                                |       1 | -          |
+| Widest Hero Pool Team   | -             | Hotpot Thots                          |      32 | -          |
+| Smallest Hero Pool Team | -             | Elmo drink :)                         |       5 | -          |
