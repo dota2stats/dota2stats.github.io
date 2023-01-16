@@ -16,15 +16,15 @@
 
 # Records
 
-| Record                  | Hero          | Name                                  |   Value | Match      |
-|:------------------------|:--------------|:--------------------------------------|--------:|:-----------|
-| GPM                     | Arc Warden    | PSGUOTM.MILF-TASK FORCE AGAINST SHABU |    1114 | 6918777516 |
-| XPM                     | Queen of Pain | NF.Punisher                           |    1110 | 6953580737 |
-| Kills                   | Invoker       | TP.Moozy                              |      30 | 6918791306 |
-| Deaths                  | Undying       | MM.Thug Wood                          |      23 | 6965957395 |
-| Lowest Rampage          | Lina          | HPT.Not Nilc                          |    9291 | 6930173170 |
-| Highest Rampage         | Ember Spirit  | EEULH.pacem in terris                 |   33947 | 6930129729 |
-| Widest Hero Pool        | -             | UIUC.勝つか死ぬか                     |       9 | -          |
-| Smallest Hero Pool      | -             | 哈哈哈                                |       1 | -          |
-| Widest Hero Pool Team   | -             | Hotpot Thots                          |      32 | -          |
-| Smallest Hero Pool Team | -             | Elmo drink :)                         |       5 | -          |
+| Record                  | Hero                                                                                         | Tag          | Name                                  |   Value | Match      |
+|:------------------------|:---------------------------------------------------------------------------------------------|:-------------|:--------------------------------------|--------:|:-----------|
+| GPM                     | ![arc_warden](https://courier.spectral.gg/images/dota/icons/arc_warden.png) Arc Warden       | arc_warden   | PSGUOTM.MILF-TASK FORCE AGAINST SHABU |    1114 | 6918777516 |
+| XPM                     | ![queenofpain](https://courier.spectral.gg/images/dota/icons/queenofpain.png) Queen of Pain  | queenofpain  | NF.Punisher                           |    1110 | 6953580737 |
+| Kills                   | ![invoker](https://courier.spectral.gg/images/dota/icons/invoker.png) Invoker                | invoker      | TP.Moozy                              |      30 | 6918791306 |
+| Deaths                  | ![undying](https://courier.spectral.gg/images/dota/icons/undying.png) Undying                | undying      | MM.Thug Wood                          |      23 | 6965957395 |
+| Lowest Rampage          | ![lina](https://courier.spectral.gg/images/dota/icons/lina.png) Lina                         | lina         | HPT.Not Nilc                          |    9291 | 6930173170 |
+| Highest Rampage         | ![ember_spirit](https://courier.spectral.gg/images/dota/icons/ember_spirit.png) Ember Spirit | ember_spirit | EEULH.pacem in terris                 |   33947 | 6930129729 |
+| Widest Hero Pool        | ![nan](https://courier.spectral.gg/images/dota/icons/nan.png) None                           | -            | UIUC.勝つか死ぬか                     |       9 | -          |
+| Smallest Hero Pool      | ![nan](https://courier.spectral.gg/images/dota/icons/nan.png) None                           | -            | 哈哈哈                                |       1 | -          |
+| Widest Hero Pool Team   | ![nan](https://courier.spectral.gg/images/dota/icons/nan.png) None                           | -            | Hotpot Thots                          |      32 | -          |
+| Smallest Hero Pool Team | ![nan](https://courier.spectral.gg/images/dota/icons/nan.png) None                           | -            | Elmo drink :)                         |       5 | -          |
